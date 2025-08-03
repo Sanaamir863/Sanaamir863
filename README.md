@@ -1,90 +1,85 @@
- # 👋 Hi there, I'm Sana Aamir!
+ # 🌟 Hi there, I'm Sana Aamir! 👋
 
-🎓 I'm a passionate *BSCS student*, exploring the world of code one line at a time.  
-💡 I’m a curious beginner who loves breaking and building things to learn how they work.
+Welcome to my digital journey!  
+I'm a passionate 💻 *BSCS student* who loves exploring technology — from *frontend web design* to *cybersecurity* and *AI/ML*.  
+I believe in learning by doing, breaking things to fix them, and building one block at a time. 🧠✨
 
 ---
 
-## 🚀 About Me
+## 📚 About Me
 
-I'm a tech enthusiast with a deep interest in *Web Development, **Cybersecurity, **AI/ML, and **low-level programming. I'm on a journey to become a full-stack developer and ethical hacker — merging **frontend creativity* with *backend logic and security*.
-
-I'm also fascinated by how systems work under the hood — that's where my love for *Assembly Language* and *reverse engineering* comes in.
+- 👩‍🎓 A committed Computer Science learner
+- 🚀 Passionate about turning ideas into code
+- 🌐 Exploring the web, line by line
+- 🔐 Always curious about how secure (or insecure) systems are
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### 🔹 Languages
-- C++ | C# | JavaScript | Python | Assembly | HTML/CSS
-
-### 🔹 Tools & Tech
-- Git & GitHub
-- Visual Studio Code
-- PyCharm
-- Node.js (beginner)
-- Linux (basic command-line usage)
-- Wireshark / Kali Linux (for security practice)
+| Category            | Technologies / Tools                                                                 |
+|---------------------|--------------------------------------------------------------------------------------|
+| 💡 Programming      | C++, C#, Python, Assembly, JavaScript                                      |
+| 🌐 Web Development  | HTML, CSS, JavaScript (Frontend basics)                                        |
+| ⚙ Tools & Platforms| Git, GitHub, VS Code, PyCharm, Linux, Wireshark, Kali Linux            |
+| 🔐 Security & Low-Level | Assembly, Reverse Engineering (basics), Linux Terminal                            |
+| 🤖 AI/ML            | Python (beginner level), ML theory (learning stage)                                  |
 
 ---
 
 ## 🎯 My Learning Goals
 
-- ✔ Master *Frontend Development* (HTML, CSS, JS)
-- ✔ Understand and apply *OOP* principles in C++/C#
-- 🔄 Learn *Full Stack Web Development* with React & Node.js
-- 🔐 Dive deeper into *Cybersecurity* (Ethical Hacking, Bug Bounty)
-- 🧠 Explore *AI/ML* concepts with Python
-- ⚙ Study *Assembly Language* and *System Programming*
+- Master *Frontend Web Development* with React
+- Learn *Full Stack Development*
+- Dive deep into *Cybersecurity* and Ethical Hacking
+- Build real-world *AI/ML projects* in Python
+- Explore low-level systems using *Assembly language*
 
 ---
 
 ## ⚡ Areas That Excite Me
 
-- Web Development (especially frontend design)
-- Artificial Intelligence and Machine Learning
-- Penetration Testing & Network Security
-- Reverse Engineering
-- Low-Level Programming (Assembly)
-- C++ and Python Projects
+- 💻 Web development and UI design  
+- 🧠 Machine learning and data intelligence  
+- 🔐 Network security and ethical hacking  
+- 🔬 System programming and internals  
 
 ---
 
-## 🧠 My Work Style
+## 👩‍💻 My Work Style
 
-I'm someone who loves to:
-- Break down problems into small tasks
-- Keep code clean and understandable
-- Learn from community and real-world projects
-- Ask “why” — not just “how”
-- Push myself to try new technologies
+- ✔ Consistent and self-motivated learner  
+- 🔍 Detail-oriented and curious by nature  
+- 💬 Open to feedback and collaboration  
+- 🌱 Always exploring something new  
 
 ---
 
-## 🌐 Let’s Connect!
+## 🤝 Let's Connect!
 
-- 🔗 [GitHub](https://github.com/Sanaamir863)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-
----
-
-## 📌 Popular Repositories (Sample Ideas to Pin)
-
-| Project Name       | Description |
-|--------------------|-------------|
-| frontend-mini-projects | A collection of beginner-friendly frontend tasks like to-do apps, calculators, etc. |
-| cpp-oop-snippets | Key OOP concepts implemented in C++ |
-| python-cyber-scripts | Python scripts for basic cybersecurity tasks (port scanner, hash cracker) |
-| assembly-lab | Assembly language exercises and simple projects |
-| ai-ml-notes | Learning notes and practice notebooks for ML/AI in Python |
+- [🔗 GitHub](https://github.com/Sanaamir863)  
+- [💼 LinkedIn](https://www.linkedin.com/in/your-link-here) (replace with your actual link)
 
 ---
 
-## 📊 GitHub Stats (Contributions)
+## 📌 Popular Repositories (Ideas)
 
-![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanaamir863&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaamir863&layout=compact&theme=radical)
+| Repo Name                | Description                                                |
+|--------------------------|------------------------------------------------------------|
+| web-dev-mini-projects  | Small frontend challenges to sharpen design + logic         |
+| cpp-oop-practice       | C++ programs showcasing Object-Oriented Programming         |
+| python-cyber-scripts   | Python scripts for basic cybersecurity practice             |
+| assembly-experiments   | Collection of assembly code for system programming basics   |
+| ai-ml-notebooks        | Jupyter notebooks of ML concepts with Python                |
 
 ---
- 
+
+## 📊 GitHub Stats
+
+![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanaamir863&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaamir863&layout=compact&theme=tokyonight)
+
+---
+
+🌟 Thanks for visiting my profile. Let’s learn, build, break, and grow together!
