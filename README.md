@@ -22,7 +22,6 @@ I believe in learning by doing, breaking things to fix them, and building one bl
 | 💡 Programming      | C++, C#, Python, Assembly, JavaScript                                      |
 | 🌐 Web Development  | HTML, CSS, JavaScript (Frontend basics)                                        |
 | ⚙ Tools & Platforms| Git, GitHub, VS Code, PyCharm, Linux, Wireshark, Kali Linux            |
-| 🔐 Security & Low-Level | Assembly, Reverse Engineering (basics), Linux Terminal                            |
 | 🤖 AI/ML            | Python (beginner level), ML theory (learning stage)                                  |
 
 ---
@@ -58,7 +57,7 @@ I believe in learning by doing, breaking things to fix them, and building one bl
 ## 🤝 Let's Connect!
 
 - [🔗 GitHub](https://github.com/Sanaamir863)  
-- [💼 LinkedIn](https://www.linkedin.com/in/your-link-here) (replace with your actual link)
+- [💼 LinkedIn](https://www.linkedin.com/in/your-link-here)  
 
 ---
 
